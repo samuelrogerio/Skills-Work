@@ -1,0 +1,14 @@
+private/
+inputs/
+outputs/
+*.env
+.env.*
+*.pem
+*.key
+skills/recibo-beneficios-aim/assets/modelo-recibo-aim.docx
+__pycache__/
+*.pyc
+~$*
+.DS_Store
+Thumbs.db
+

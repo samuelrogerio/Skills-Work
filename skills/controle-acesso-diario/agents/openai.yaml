@@ -1,0 +1,5 @@
+interface:
+  display_name: "Controle de acesso diário"
+  short_description: "Transcreve presença e reconcilia o efetivo"
+  default_prompt: "Use $controle-acesso-diario para transformar o controle anexado em um relatório conferido."
+

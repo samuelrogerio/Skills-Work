@@ -1,0 +1,5 @@
+interface:
+  display_name: "Equipe de RDO no Obra Prima"
+  short_description: "Lança equipes a partir do controle de acesso"
+  default_prompt: "Use $obra-prima-rdo-equipe para preencher somente a equipe dos RDOs indicados e conferir os lançamentos."
+

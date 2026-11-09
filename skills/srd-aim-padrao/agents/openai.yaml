@@ -1,0 +1,5 @@
+interface:
+  display_name: "SRD em padrão compacto"
+  short_description: "Cria SRDs, anexa comprovantes e mantém histórico"
+  default_prompt: "Use $srd-aim-padrao para montar a SRD, conferir os totais e deixar assinaturas em branco."
+

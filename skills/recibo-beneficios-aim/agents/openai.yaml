@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recibos de benefícios"
+  short_description: "Gera recibos em Word e PDF"
+  default_prompt: "Use $recibo-beneficios-aim para criar um recibo de benefícios pronto para conferência e impressão."
+
